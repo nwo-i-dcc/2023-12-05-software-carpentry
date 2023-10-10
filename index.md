@@ -264,7 +264,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="certificates">
     <strong>Certificate of attendance:</strong>
-  If you attend all 3 lessons you will receive a Software Carpentry certification from The Carpentries foundation. If you attend 1 or 2 lessons you will receive a certificate of attendance from NWO-I DCC. 
+  If you require an certificate of attendance, please contact the organizers. 
 </p>
 
 <hr/>
