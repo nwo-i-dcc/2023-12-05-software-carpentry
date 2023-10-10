@@ -264,7 +264,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="certificates">
     <strong>Certificate of attendance:</strong>
-  If you require an certificate of attendance, please contact the organizers. 
+  If you require a certificate of attendance, please contact the organizers. 
 </p>
 
 <hr/>
